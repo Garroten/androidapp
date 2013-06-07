@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370626614000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/drawable-hdpi/ic_launcher.png
+1370626614000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/values-v11/values.xml
+1370630332000 687 fcc2fd57ac4bdc4be5f6e0817dff0549893e474d /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/layout/activity_main.xml
+1370630332000 473 63a948856ac91eb4ebd075c34f48b98dd8d749ae /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/layout/fragment_tab_pollas.xml
+1370630332000 419 3c9a19d7ac09ce845ae1fc694479a296e3ab26d5 /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/menu/main.xml
+1370626614000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/drawable-xxhdpi/ic_launcher.png
+1370626614000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/drawable-xhdpi/ic_launcher.png
+1370626614000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/values-v14/values.xml
+1370631302000 473 3f8b5d1c961e4253c406df786721e9abfb8dd7a2 /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/layout/fragment_tab_pelucas.xml
+1370626614000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/values-sw720dp-land/values.xml
+1370630791000 1012 fb87b48653ba8dd47b7a99e185c787f749bdaf69 /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/values/values.xml
+1370631302000 473 a58bfbff8d2f2000e659076c9e0372b6ac45ce19 /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/layout/fragment_tab_complementos.xml
+1370626614000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/rafaelgarrote/Desarrollo/PollasProject/Pollas/build/res/all/release/drawable-mdpi/ic_launcher.png
