@@ -1,9 +1,11 @@
 package com.pollas;
 
 import android.app.ActionBar;
+import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 
@@ -43,6 +45,19 @@ public class MainActivity extends Activity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
+    }
+
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_chistes:
+                Intent intent = new Intent(this, ChistesActivity.class);
+                this.startActivity(intent);
+                return true;
+            case R.id.action_ilustres:
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
     
 }

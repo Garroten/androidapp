@@ -1,9 +1,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/action_settings"
+    <item android:id="@+id/action_ilustres"
         android:title="@string/action_ilustres"
         android:orderInCategory="100"
         android:showAsAction="never" />
-    <item android:id="@+id/action_settings"
+    <item android:id="@+id/action_chistes"
           android:title="@string/action_chistes"
           android:orderInCategory="100"
           android:showAsAction="never" />
