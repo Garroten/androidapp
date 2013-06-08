@@ -4,7 +4,8 @@
     android:layout_height="match_parent"
     android:id="@+id/contenedor"
     tools:context=".MainActivity"
-    android:background="#15c933">
+    android:background="#15c933"
+    android:longClickable="false">
 
     <ImageView
             android:layout_width="match_parent"
