@@ -4,6 +4,8 @@ import android.app.ActionBar;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.view.View;
+import android.widget.ImageView;
 
 import com.pollas.listener.tab.PollasTabListener;
 import com.pollas.tab.FragmentTabComplementos;
@@ -31,6 +33,8 @@ public class MainActivity extends Activity {
         abar.addTab(tabPollas);
         abar.addTab(tabComplementos);
         abar.addTab(tabPelucas);
+        final ImageView imagenFondoView = (ImageView) findViewById(R.id.imageViewFondo);
+        imagenFondoView.setImageResource(R.drawable.fondocaca_420x728);
     }
 
 
