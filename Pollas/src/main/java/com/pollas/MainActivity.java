@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
         abar.addTab(tabComplementos);
         abar.addTab(tabPelucas);
         final ImageView imagenFondoView = (ImageView) findViewById(R.id.imageViewFondo);
-        imagenFondoView.setImageResource(R.drawable.fondocaca_420x728);
+        imagenFondoView.setBackgroundResource(R.drawable.fondocaca);
     }
 
 

@@ -3,14 +3,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/contenedor"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="#15c933">
 
     <ImageView
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:id="@+id/imageViewFondo"
             android:layout_alignParentTop="true"
             android:layout_alignParentLeft="true"
             android:layout_alignParentBottom="true"
-            android:layout_alignParentRight="true"/>
+            android:layout_alignParentRight="true"
+            android:padding="0dp"
+            android:baselineAlignBottom="false"
+            android:layout_alignWithParentIfMissing="true"
+            android:layout_alignParentEnd="false"
+            />
 </RelativeLayout>
