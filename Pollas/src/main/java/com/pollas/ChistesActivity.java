@@ -57,7 +57,7 @@ public class ChistesActivity extends Activity {
     private ArrayList<ChisteListItem> getChistes() {
         ArrayList<ChisteListItem> chistes = new ArrayList<ChisteListItem>();
         for(int i = 0; i != 10; i ++){
-            ChisteListItem chiste = new ChisteListItem(R.drawable.ic_launcher,"Titulo Chiste", "Hay ampollas. Yes you are!");
+            ChisteListItem chiste = new ChisteListItem(R.drawable.ico_chistes,"Titulo Chiste", "Hay ampollas. Yes you are!");
             chistes.add(chiste);
         }
         return chistes;
