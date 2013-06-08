@@ -3,7 +3,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="horizontal"
               android:layout_width="match_parent"
-              android:layout_height="match_parent">
+              android:layout_height="match_parent"
+              android:background="#f6e201"
+              android:divider="#fffe5c">
     <ImageView
             android:id="@+id/imageView_imagen"
             android:layout_width="80dp"
@@ -28,14 +30,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Large Text"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#424242"/>
 
         <TextView
                 android:id="@+id/textView_inferior"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Small Text"
-                android:textAppearance="?android:attr/textAppearanceSmall" />
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#6f6f6f"/>
 
     </LinearLayout>
 
